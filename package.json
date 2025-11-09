@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/H0MELANDER1/GithubBot-V1.1.git"
+    "url": "git+https://github.com/H0MELANDER1/NODE-Agent-V.01.git"
   },
   "author": "H0MELANDER1",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/H0MELANDER1/GithubBot-V1.1/issues"
+    "url": "https://github.com/H0MELANDER1/NODE-Agent-V.01/issues"
   },
-  "homepage": "https://github.com/H0MELANDER1/GithubBot-V1.1#readme",
+  "homepage": "https://github.com/H0MELANDER1/NODE-Agent-V.01#readme",
   "dependencies": {
     "jsonfile": "^6.2.0",
     "moment": "^2.30.1",
